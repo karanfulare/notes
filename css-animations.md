@@ -1,5 +1,4 @@
 
-```markdown
 # CSS Animations
 
 CSS animations allow you to create dynamic and visually appealing effects on web elements. In this document, we'll cover various aspects of CSS animations.
